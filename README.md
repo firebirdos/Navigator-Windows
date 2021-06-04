@@ -12,12 +12,9 @@ Navigator is a modern web browser, built on top of modern web technologies such 
 # Table of Contents:
 - [Motivation](#motivation)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Downloads](#downloads)
-- [Contributing](#contributing)
 - [Development](#development)
   - [Running](#running)
-- [Documentation](#documentation)
 - [License](#license)
 
 # Motivation
