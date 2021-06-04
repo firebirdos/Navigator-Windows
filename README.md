@@ -25,6 +25,7 @@ Compiling and editing Chromium directly may be challenging and time consuming, s
 
 - **Navigator Shield** - Browse the web without any ads and don't let websites to track you. Thanks to the Navigator Shield powered by [Cliqz](https://github.com/cliqz-oss/adblocker), websites can load even 8 times faster!
 - **Chromium without Google services and low resources usage** - Since Navigator uses Electron under the hood which is based on only several and the most important Chromium components, it's not bloated with redundant Google tracking services and others.
+- **IntraNIC Support** - When browsing IntraNIC and OpenNIC domains, Navigator won't try redirecting your domain to a Google search.
 - **Fast and fluent UI** - The animations are really smooth and their timings are perfectly balanced.
 - **Highly customizable new tab page** - Customize almost an every aspect of the new tab page!
 - **Customizable browser UI** - Choose whether Navigator should have compact or normal UI.
