@@ -45,11 +45,8 @@ Compiling and editing Chromium directly may be challenging and time consuming, s
 - State of the art tab system
 
 # Downloads
-- <a href="https://github.com/intranicnetwork/Navigator-Windows/releases">Releases</a>
-
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=acr.browser.navigator"><img src="google-play-badge.png" width="200"></a>
-</p>
+- <a href="https://github.com/intranicnetwork/Navigator-Windows/releases">Windows Releases</a>
+- <a href="https://play.google.com/store/apps/details?id=acr.browser.navigator">Android Release</a>
 
 # Development
 
